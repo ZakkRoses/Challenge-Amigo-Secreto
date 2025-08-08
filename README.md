@@ -65,11 +65,6 @@ amigo-secreto/
 
     Luego, abre `http://localhost:8000` en tu navegador.
 
-### 4. Personalización
-
-- Modifica `style.css` para ajustar los estilos visuales.
-- Edita `app.js` para añadir nuevas funcionalidades, como eliminar nombres de la lista o reiniciar el sorteo.
-
 ## Posibles Problemas y Soluciones
 
 1. **El sorteo muestra "undefined" o no funciona**:
