@@ -97,7 +97,6 @@ amigo-secreto/
 - **HTML5**: Estructura de la página.
 - **CSS3**: Estilos y diseño responsivo.
 - **JavaScript**: Lógica para agregar nombres, validar entradas y realizar el sorteo aleatorio.
-- **Google Fonts**: Fuentes `Inter` y `Merriweather` para un diseño moderno.
 
 ## Contribuciones
 
@@ -109,6 +108,4 @@ amigo-secreto/
 4. Sube los cambios a tu fork (`git push origin feature/nueva-funcionalidad`).
 5. Abre un Pull Request en GitHub.
 
-## Licencia
 
-Este proyecto está bajo la Licencia MIT. Siéntete libre de usarlo y modificarlo según tus necesidades.
